@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.umaryan.twa",
+      "sha256_cert_fingerprints": [
+        "A2:E8:B5:3A:4C:02:C9:69:2A:35:31:C9:3F:5C:34:D9:0B:D7:04:5E:67:FA:95:FD:8A:A1:F2:EC:D6:CD:5B:28"
+      ]
+    }
+  }
+]
